@@ -1,0 +1,5 @@
+# Mounts dsh-conversation-split into the profile bundle. The host half is empty; the row
+# makes the browser module (lib/client.js) part of the profile.
+- insert:
+    - id: conversation-split
+      name: dsh-conversation-split
