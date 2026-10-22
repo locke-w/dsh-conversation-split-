@@ -6,6 +6,8 @@ Antigravity-style **split view** for [DeepSeek Harness](https://github.com/deeps
 
 It is a pure client plugin: it reuses DSH's own conversation renderer inside every pane (no iframes, no second app instance, no copy of the chat UI), so permissions, tool calls, attachments and session state behave exactly as in the normal single-conversation view.
 
+![Three conversations in one DSH window](assets/split-view.png)
+
 ## Features
 
 - Split right / split down from the conversation header button, the pane toolbar, the sidebar session menu, or keyboard shortcuts.
