@@ -12,11 +12,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/locke-w/dsh-conversation-split-.git"
+    "url": "git+https://github.com/locke-w/dsh-conversation-split.git"
   },
-  "homepage": "https://github.com/locke-w/dsh-conversation-split-#readme",
+  "homepage": "https://github.com/locke-w/dsh-conversation-split#readme",
   "bugs": {
-    "url": "https://github.com/locke-w/dsh-conversation-split-/issues"
+    "url": "https://github.com/locke-w/dsh-conversation-split/issues"
   },
   "engines": {
     "dsh": ">=0.2.1-rc.1 <0.3.0-0"
