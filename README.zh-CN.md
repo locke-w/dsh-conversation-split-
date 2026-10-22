@@ -40,7 +40,7 @@
 dsh plugin --profile desktop add dsh-conversation-split
 
 # ……或从本地源码安装
-git clone https://github.com/locke-w/dsh-conversation-split
+git clone https://github.com/locke-w/dsh-conversation-split-
 cd dsh-conversation-split && npm install && npm run build && npm pack
 dsh plugin --profile desktop add ./dsh-conversation-split-0.1.0.tgz
 ```

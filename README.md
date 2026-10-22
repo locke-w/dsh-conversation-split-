@@ -40,7 +40,7 @@ Requires DSH `0.2.x` (developed and tested against `@deepseek-ai/dsh@0.2.1-rc.2`
 dsh plugin --profile desktop add dsh-conversation-split
 
 # … or from a local checkout
-git clone https://github.com/locke-w/dsh-conversation-split
+git clone https://github.com/locke-w/dsh-conversation-split-
 cd dsh-conversation-split && npm install && npm run build && npm pack
 dsh plugin --profile desktop add ./dsh-conversation-split-0.1.0.tgz
 ```
